@@ -5,7 +5,7 @@
   },
   "appBarTitle": "Tic Tac Toe",
   "@appBarTitle": {
-    "description": "The title of the appBar"
+    "description": "The title of the app bar"
   },
   "gameButtonNewGame": "Nouveau jeu",
   "gameButtonResetHistory": "Effacer l'historique",
