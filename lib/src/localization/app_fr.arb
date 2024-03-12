@@ -1,0 +1,17 @@
+{
+  "appTitle": "mobile_app_interview",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "appBarTitle": "Tic Tac Toe",
+  "@appBarTitle": {
+    "description": "The title of the appBar"
+  },
+  "gameButtonNewGame": "Nouveau jeu",
+  "gameButtonResetHistory": "Effacer l'historique",
+  "gameMsgeHand": "Ton tour",
+  "gameMsgeNoWinner": "Aucun gagnant pour cette partie",
+  "gameMsgeCongrats": "Félicitations",
+  "gameMsgeYouWin": "tu as gagné !"
+}
+
